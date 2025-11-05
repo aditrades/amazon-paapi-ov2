@@ -1,9 +1,6 @@
 # amazon-paapi
 
-[![npm version](https://badge.fury.io/js/amazon-paapi.svg)](https://badge.fury.io/js/amazon-paapi)
-[![NPM](https://nodei.co/npm/amazon-paapi.png)](https://nodei.co/npm/amazon-paapi/)
-
-Amazon Associate Product Advertising API for NodeJs. A PAAPI 5.0 Extension.
+Amazon Associate Product Advertising API for NodeJs. A PAAPI 5.0 Extension with OffersV2 updated.
 
 A **clean** wrapper for amazon's [NodeJs SDK.](https://webservices.amazon.com/paapi5/documentation/with-sdk.html#nodejs) Main purpose of this module is to jumpstart development with easy to understand and clean syntax inspired with the amazon [scratchpad](https://webservices.amazon.com/paapi5/scratchpad/index.html)-like operation.
 
@@ -206,14 +203,3 @@ In the mean time, please check amazon [documentation](https://webservices.amazon
 
 - Is the addCart Operation still supported in V5.0?
   _It is deprecated, But you can use [Add to Cart form](https://webservices.amazon.com/paapi5/documentation/add-to-cart-form.html) to integrate cart on your websites._
-
-### Donation
-
-If this somehow makes your job a bit easier, please consider dropping few bucks.
-Your contribution allows me to spend more time improving features of this project.
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2N243HNZCXY7J&source=url)
-
-### License
-
-[MIT](https://github.com/jorgerosal/amazon-paapi/blob/master/LICENSE)

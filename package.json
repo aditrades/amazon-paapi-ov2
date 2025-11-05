@@ -1,18 +1,9 @@
 {
   "name": "amazon-paapi",
-  "version": "1.0.7",
+  "version": "1.2.3",
   "description": "Amazon Associate Product Advertising API for NodeJs. A PAAPI 5.0 Extension.",
   "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jorgerosal/amazon-paapi.git"
-  },
-  "author": "Jorge Rosal",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jorgerosal/amazon-paapi/issues"
-  },
-  "homepage": "https://github.com/jorgerosal/amazon-paapi#readme",
   "keywords": [
     "paapi5",
     "PA-API 5.0",
@@ -23,7 +14,8 @@
     "amazon getItems",
     "amazon searchItems",
     "amazon browseNodeRequest",
-    "amazon getVariation"
+    "amazon getVariation",
+    "amazon OffersV2"
   ],
   "dependencies": {
     "crypto-js": "^4.0.0",

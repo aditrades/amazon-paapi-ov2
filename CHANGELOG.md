@@ -1,4 +1,10 @@
 ## Change Log
+    1.2.3 November 05, 2025
+
+- Add support for OffersV2
+- Update dependencies to latest versions
+- Security updates and improvements
+
     1.0.7 August 30, 2022
 
 - Add querystring module from main package.json. legacy dependency used by the SDK.
